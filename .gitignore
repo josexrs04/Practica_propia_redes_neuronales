@@ -1,0 +1,27 @@
+# Datasets
+dogs-vs-cats/
+red_neuronal_IMDB/imdb/
+red_neuronal_MNIST/data/
+red_neuronal_series_temporales/jena_climate_2009_2016.csv
+red_neuronal_series_temporales/jena_climate_2009_2016.csv.zip
+
+# Modelo de 253 MB (supera el límite de GitHub)
+red_neuronal_IMDB/distilbert_6_6.pt
+
+# Temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secretos
+.env
