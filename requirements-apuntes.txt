@@ -1,0 +1,7 @@
+-r requirements.txt
+torchmetrics==1.9.0
+jax==0.11.2
+optax
+flax
+keras
+lightning
